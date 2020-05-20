@@ -1,0 +1,147 @@
+
+
+		body{
+			background-color: rgb(201, 236, 255);
+			font-family: 'Metal Mania', cursive;
+		}
+
+		img{
+			max-width: 100%;
+			border-radius: 20px;
+		}
+
+		p{
+			margin-bottom: : 20px;
+		}
+
+		h1 , h2{
+			margin-bottom: 20px;
+			margin-left: 200px;
+		}
+
+		.t-header{
+			background-color: white;
+		}
+
+		.t-header::after{
+			content: " ";
+			clear: both;
+			display: block;
+		}
+
+		.t-container{	
+			max-width: 1200px;
+			margin: 0 auto;
+		}
+
+		.t-logo{
+			float: left;
+			padding: 20px;
+		}
+
+		.t-nav{
+			float: right;
+			font-size: 40px;
+		}
+	
+
+		.t-nav ul li{
+			display: inline-block;
+			font-size: 20px;
+
+		}
+		
+		.t-nav ul li a{
+			text-decoration: none;
+			margin-right: 20px;
+			margin-left: 20px;
+			line-height: 60px;
+			color: black;
+
+		}
+
+		.t-nav ul li a:hover{
+			color: blue ;
+		}
+
+		.t-content{
+			margin-top: 30px;
+			margin-bottom: 30px;
+			max-width: 70%;
+			float: left;
+		}
+
+		.t-article{
+			background-color: white;
+			padding: 20px;
+		}
+
+		.t-sidebar{
+			margin-top: 30px;
+			margin-bottom: 30px;
+			max-width: 25%;
+			background-color: white;
+			float: right;
+			width: 25%;
+		}
+
+		.t-sidebar ul{
+			padding: 20px;
+		}
+
+		.t-sidebar ul li{
+			margin: 20px;
+		}
+
+		.t-footer{
+			clear: both;
+			background-color: white;
+			text-align: center;
+			padding: 20px;
+		}
+
+		.b{
+			font-size:100%;
+            height:100px;
+            width: 100px;
+            border-radius: 20px
+		}
+
+		.b img{
+			height:100px;
+            width: 100px;
+             vertical-align:middle;
+
+		}
+		.quiz{background-color: rgb(165, 205, 255);color: rgb(229, 32, 32);font-family: fantasy;font-size: 50px;padding: 10px;margin: 10px;border-radius: 100px;text-align: center;} 
+    .question{background-color: rgb(249, 60, 57);color: white;font-family: fantasy;font-size: 40px;text-align: center;margin: 10px;padding: 10px;}
+    .answer{background-color: rgb(145, 192, 255);color: white;padding: 10px;margin: 10px;display:inline-block; block;border-radius: 120px;width: 200px;font-size: 30px;font-family: fantasy;}
+    #bottom{background-color: rgb(229, 32, 32);color: black;font-size: 40px;font-family: fantasy;margin-left: 600px;padding: 10px;border-radius: 120px;}
+    #main{background-color: rgb(255, 249, 102);margin: 10px;padding: 10px;}
+    #footer{background-color: rgb(165, 205, 255);margin: 10px;padding: 10px;border-radius: 120px;}
+    .answer:hover{background-color: chartreuse;}
+
+
+    #after_submit {
+	visibility: hidden;
+	background: #ff5459;
+	padding: 10px 20px 10px 20px;
+	width: 400px;
+	border-radius: 20px;
+	float: left;
+	margin-left: 20px;
+	font-size: 30px;
+
+
+}
+
+#picture {
+	width: 375px;
+	height: 245px;
+}
+
+
+
+#mc {
+	display: inline;
+} 
