@@ -1,0 +1,71 @@
+		body{
+			background-image: url('https://family.disney.com/wp-content/uploads/2017/04/wallpaper_disneystyle_alice_02.jpg');
+		}
+
+		img{
+			max-width: 100%;
+			border-radius: 20px;
+		}
+
+		p{
+			margin-bottom: : 20px;
+		}
+
+		h1 , h2{
+			margin-bottom: 20px;
+		}
+
+		.quiz
+		{
+			color: black;
+			font-family: 'Indie Flower', cursive;
+			font-size: 90px;
+			text-align: center;
+		} 
+    	.question
+    	{
+    		background-color: #ff5026;
+    		color: black;
+    		font-family: 'Mali', cursive;
+    		font-size: 30px ;
+    		text-align: center;
+    		margin: 10px;
+    		padding: 10px;
+    		border: 4px solid black;
+    		border-radius: 120px;
+    	}
+    	.answer
+    	{
+    		background-color: #ff3200;
+    		color: black;
+    		font-family: 'Mali', cursive;
+    		font-size: 30px;
+    		padding: 10px;
+    		margin: 10px;
+    		display:inline-block;
+    		border: 3px solid;
+    		border-radius: 120px;
+    		width: 400px;	
+    	}
+	    #top
+	    {
+	    	margin: 10px
+	    }
+	    #bottom
+	    {
+	    	background-color: #ffdaa3;
+	    	color: black;
+	    	font-family: 'Indie Flower', cursive;
+			font-size: 50px;
+	    	margin-left: 600px;
+	    	padding: 10px;
+	    	border: 4px solid black;
+	    }
+	    #main
+	    {
+	    	margin: 10px;
+	    	padding: 10px;
+	    	border: 5px;
+	    }
+	   
+	    

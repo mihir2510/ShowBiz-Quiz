@@ -1,0 +1,78 @@
+		body{
+			background-image: url('http://diarioveaonline.com/wp-content/uploads/2018/06/fantastic-x-men-wallpapers-for-desktop-18.jpg');
+		}
+
+		img{
+			max-width: 100%;
+			border-radius: 20px;
+		}
+
+		p{
+			margin-bottom: : 20px;
+		}
+
+		h1 , h2{
+			margin-bottom: 20px;
+		}
+
+		.quiz
+		{
+			background-color: rgba(244, 244, 66,0.5);
+			color: black;
+			font-family: 'Indie Flower', cursive;
+			font-size: 90px;
+			border:4px;
+			border-radius: 100px;
+			text-align: center;
+		} 
+    	.question
+    	{
+    		background-color: rgba(64, 12, 102, 0.75);
+    		color: black;
+    		font-family: 'Mali', cursive;
+    		font-size: 30px ;
+    		text-align: center;
+    		margin: 10px;
+    		padding: 10px;
+    		border: 4px solid black;
+    		border-radius: 120px;
+    	}
+    	.answer
+    	{
+    		background-color: rgba(244, 30, 30, 0.75);
+    		color: black;
+    		font-family: 'Mali', cursive;
+    		font-size: 30px;
+    		padding: 20px;
+    		margin: 20px;
+    		display:inline-block;
+    		border: 3px solid;
+    		border-radius: 120px;
+    		width: 300px;
+    	}
+	    #top
+	    {
+	    	margin: 10px
+	    }
+	    #bottom
+	    {
+	    	background-color: rgba(7, 193, 3, 0.5);
+	    	color: black;
+	    	font-family: 'Indie Flower', cursive;
+			font-size: 50px;
+	    	margin-left: 600px;
+	    	padding: 10px;
+	    	;
+	    	border: 4px solid black;
+	    }
+	    #main
+	    {
+	    	margin: 10px;
+	    	padding: 10px;
+	    	border: 5px;
+	    }
+
+	    .answer:hover
+	    {
+	    	background-color: #2ad114;
+	    }
