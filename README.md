@@ -1,8 +1,8 @@
 # ShowBiz-Quiz
 <div align="center">
 
-[[!made-with-JavaScript](http://img.shields.io/badge/Made%20with-JavaScript-red)]
-[[!made-with-php](http://img.shields.io/badge/Made%20with-PHP-green)]
+[![made-with-JavaScript](http://img.shields.io/badge/Made%20with-JavaScript-red)](www.javascript.com)
+[![made-with-php](http://img.shields.io/badge/Made%20with-PHP-green)](www.php.net)
 
 </div>
 
